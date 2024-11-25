@@ -50,11 +50,7 @@ The following Python libraries are required:
 
 1. Clone the repository and navigate to the project directory.
 2. Ensure the required datasets (`train.csv`, `stores.csv`, `features.csv`) are available.
-3. Install dependencies using:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Open the notebook and execute cells sequentially to follow the analysis and predictions.
+3. Open the notebook and execute cells sequentially to follow the analysis and predictions.
 
 ## Results
 
